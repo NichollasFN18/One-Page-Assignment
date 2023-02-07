@@ -1,2 +1,2 @@
-# TA Project
- Project for The Tech Academy
+One Page Assignment 
+This was a project I needed to do throughout my course using html and css to learn how to creat an interactive webpage!
